@@ -47,14 +47,15 @@ Displays average page views per month, grouped by year, highlighting yearly and 
 
 
 
-## Usage
+## Usage 
 
 
 1. Install dependencies:
-```bash
-pip install -r requirements.txt
+``bash
+pip install -r requirements.txt``
 
 2. Run the test script to generate all visualizations:
-python tests/test_visualizer.py
+`python tests/test_visualizer.py`
+
 
 
