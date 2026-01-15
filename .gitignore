@@ -1,3 +1,10 @@
+#For this project:
+data/raw/
+outputs/
+__pycache__/
+*.pyc
+.env
+#Genrally for python as a github inbuilt:
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
