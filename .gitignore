@@ -1,6 +1,4 @@
 #For this project:
-data/raw/
-outputs/
 __pycache__/
 *.pyc
 .env
