@@ -46,7 +46,6 @@ Displays average page views per month, grouped by year, highlighting yearly and 
 
 
 
-
 ## Usage 
 
 
@@ -57,5 +56,8 @@ pip install -r requirements.txt``
 2. Run the test script to generate all visualizations:
 `python tests/test_visualizer.py`
 
-
+## Tools
+pandas
+matplotlib
+seaborn
 
